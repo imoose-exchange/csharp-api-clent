@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImooseApiClient", "ImooseApiClient.csproj", "{3AB66CF0-DFF0-425D-8D19-B7093FC96902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "..\TestApp\TestApp.csproj", "{D8FF665D-BC5A-4F5F-BDE2-0271CE946CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB66CF0-DFF0-425D-8D19-B7093FC96902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB66CF0-DFF0-425D-8D19-B7093FC96902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB66CF0-DFF0-425D-8D19-B7093FC96902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB66CF0-DFF0-425D-8D19-B7093FC96902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FF665D-BC5A-4F5F-BDE2-0271CE946CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FF665D-BC5A-4F5F-BDE2-0271CE946CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FF665D-BC5A-4F5F-BDE2-0271CE946CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FF665D-BC5A-4F5F-BDE2-0271CE946CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C889D4A-5D91-4C74-9375-5A51C416EBB8}
+	EndGlobalSection
+EndGlobal
